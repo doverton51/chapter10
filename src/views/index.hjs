@@ -9,7 +9,7 @@
     <script src="/scripts/chat.js"></script>
   </head>
   <body>
-    <h1>{{ title }}</h1>
+    <h1>{{ title }}!!</h1>
     <h2>Profile</h2>
     {{#ranking}}
       <p>You are ranked #{{ranking.rank}} with {{ranking.wins}} wins!</p>
